@@ -1,3 +1,0 @@
-package dependy
-
-func dependent() {}

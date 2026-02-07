@@ -1,3 +1,3 @@
 package dependy
 
-func dependent() {}
+func Dependent() {}

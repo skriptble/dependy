@@ -1,0 +1,3 @@
+package dependy
+
+func dependent() {}

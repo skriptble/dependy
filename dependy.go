@@ -5,3 +5,8 @@ import "fmt"
 func Dependent() {
 	fmt.Println("This is from the dependy module at version 2: github.com/skriptble/dependy/v2")
 }
+
+func Dependent2() {
+	fmt.Println("Dependent2!")
+	fmt.Println("This is from the dependy module at version 2: github.com/skriptble/dependy/v2")
+}
